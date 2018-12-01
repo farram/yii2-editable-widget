@@ -1,5 +1,5 @@
 {
-    "name": "2amigos/yii2-editable-widget",
+    "name": "farram/yii2-editable-widget",
     "description": "X-Editable widget for Yii2.",
     "type": "yii2-extension",
     "keywords": [
@@ -22,8 +22,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/2amigos/yii2-editable-widget/issues",
-        "source": "https://github.com/2amigos/yii2-editable-widget"
+        "issues": "https://github.com/farram/yii2-editable-widget/issues",
+        "source": "https://github.com/farram/yii2-editable-widget"
     },
     "require": {
         "yiisoft/yii2": "~2.0.5",
